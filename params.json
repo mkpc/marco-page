@@ -1,6 +1,6 @@
 {
   "name": "Marco's resume",
-  "tagline": "Hi testing",
+  "tagline": "Hi there",
   "body": "# Welcome to my pages.\r\nThis site concluded all my work and my repo. \r\n\r\n***\r\n\r\n### Working experience\r\n* Application Development Intern, Russell Investments, Seattle \r\n\r\n### Relevant Projects\r\n* iOS\r\n + [\"Vision Screener\"](https://youtu.be/jmLb0rbxReM)\r\n + [\"U-park\"](https://github.com/mkpc/Parking-UW)\r\n + [\"CARMAX\"](https://invis.io/Y375TFZSJ)\r\n* Web Application\r\n * [\"Lean Angle Calculator\"](http://students.washington.edu/mkpc/info474/info474_lean_angle/) \r\n * [\"CNN Web Crawler\"](https://github.com/mkpc/INFO344) \r\n * [\"Ecocommuter\"](http://students.washington.edu/mkpc/info343/final-project/INFO343-FinalProject/#1)\r\n * [\"Seattle Traffic Camera\"](http://students.washington.edu/mkpc/info343/traffic-cam-challenge/)\r\n\r\n***\r\n\r\n### Education\r\n_University of Washington   2013 - 2016_    \r\nBachelor of Science in Informatics- HCI   GPA: 3.7\r\n\r\n_Seattle Central College   2011 - 2013_    \r\nAssociate of Science Degree\r\n\r\n### Skills and Languages\r\n* C#, Java, JavaScript, Swift, Html5, PHP, CSS\r\n* Visual Studio 2015, WebStorm, VSCode\r\n* Visual Paradigm, Axure, Microsoft Visio, InVision\r\n* Amazon Web Service, Microsoft Azure \r\n* Git, SourceTree, Team City\r\n* Microsoft SQL Server Management Studio, MySQL\r\n* Jasmine, SpecFlow, NUnit\r\n\r\n ",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
